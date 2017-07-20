@@ -1,0 +1,19 @@
+COMP 280 - Project 05 (Cache Simulator)
+
+1. Partner 1: Saul Garza
+   Partner 2: Erick Perez
+
+2. Total Hours Spent on Project: 17
+
+3. Project Bucks Used: 0
+
+5. (Optional) Additional Comments:
+
+Overall project was not too difficult. The hardest part was understanding what
+the commands for each line meant, like "I" "M" ...
+
+Other than that, the overall concept and setup of the project was not too bad.
+The only reason we spent an excessive amount of time on this project was
+because we were having valgrinds errors that we couldnt resolve easily. The
+program ran fine and took us about 12-13 hours to do. The other hours were
+spent ridding the code of valgrinds errors
